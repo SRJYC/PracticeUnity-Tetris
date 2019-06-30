@@ -1,4 +1,4 @@
-# Practise-Tetris
+# Practice-Tetris
 A unity project for practise. This project replicate Tetris.
 
 ## Preview
